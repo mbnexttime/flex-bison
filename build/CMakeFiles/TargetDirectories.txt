@@ -1,0 +1,6 @@
+/home/kgavrilov/flex/hw_2/build/CMakeFiles/rebuild_cache.dir
+/home/kgavrilov/flex/hw_2/build/CMakeFiles/edit_cache.dir
+/home/kgavrilov/flex/hw_2/build/CMakeFiles/qdb.dir
+/home/kgavrilov/flex/hw_2/build/common/CMakeFiles/rebuild_cache.dir
+/home/kgavrilov/flex/hw_2/build/common/CMakeFiles/edit_cache.dir
+/home/kgavrilov/flex/hw_2/build/common/CMakeFiles/common.dir

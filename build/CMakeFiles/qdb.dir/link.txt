@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/qdb.dir/src/main.cc.o CMakeFiles/qdb.dir/lexer.cc.o CMakeFiles/qdb.dir/parser.cc.o  -o qdb  common/libcommon.a 

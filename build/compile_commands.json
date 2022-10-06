@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/kgavrilov/flex/hw_2/build",
+  "command": "/usr/bin/g++   -I. -I../src -I../common -I../   -std=c++17 -g   -o CMakeFiles/qdb.dir/src/main.cc.o -c /home/kgavrilov/flex/hw_2/src/main.cc",
+  "file": "/home/kgavrilov/flex/hw_2/src/main.cc"
+},
+
+{
+  "directory": "/home/kgavrilov/flex/hw_2/build",
+  "command": "/usr/bin/g++   -I. -I../src -I../common -I../   -std=c++17 -g   -o CMakeFiles/qdb.dir/lexer.cc.o -c /home/kgavrilov/flex/hw_2/build/lexer.cc",
+  "file": "/home/kgavrilov/flex/hw_2/build/lexer.cc"
+},
+
+{
+  "directory": "/home/kgavrilov/flex/hw_2/build",
+  "command": "/usr/bin/g++   -I. -I../src -I../common -I../   -std=c++17 -g   -o CMakeFiles/qdb.dir/parser.cc.o -c /home/kgavrilov/flex/hw_2/build/parser.cc",
+  "file": "/home/kgavrilov/flex/hw_2/build/parser.cc"
+},
+
+{
+  "directory": "/home/kgavrilov/flex/hw_2/build",
+  "command": "/usr/bin/g++   -I../  -g   -std=gnu++2a -o common/CMakeFiles/common.dir/common.cc.o -c /home/kgavrilov/flex/hw_2/common/common.cc",
+  "file": "/home/kgavrilov/flex/hw_2/common/common.cc"
+}
+]
